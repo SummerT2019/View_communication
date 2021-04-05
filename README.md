@@ -23,3 +23,7 @@
 > torchvision==0.4.0
 > 
 > numpy==1.14.0
+
+## 4. Code Ocean Version
+> You can also find this demo on Code Ocean and easily run it by clicking the 'Reproducible Run' button.
+> https://codeocean.com/capsule/6805560/tree/v1

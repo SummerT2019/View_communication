@@ -2,18 +2,22 @@
 > This is code for paper  ‘ Human Collective Intelligence inspired Multi-view Representation Learning: Enabling View Communication by Simulating Human Communication Mechanism ’
 > We have published a reproducible demo and two datasets here.
 
-## 1. How to run
+## 1. Code Ocean Version
+> You can also find this demo on Code Ocean and easily run it by clicking the 'Reproducible Run' button.
+> https://codeocean.com/capsule/6805560/tree/v1
+
+## 2. How to run
 > Run 'bcpp/view_communication.py' on human breast cancer prognosis prediction dataset.
 > 
 > Run 'Mnist/communication_with_fusion.py' on Noisy Mnist dataset.
 
-## 2. Data Availablity
+## 3. Data Availablity
 > Human Breast Cancer Prognosis Prediction data： original data in 'BCPP/data/', train and test data in 'data_set/bcpp/'
 > 
 > Noisy data: original data can be download from 'https://ttic.uchicago.edu/~wwang5/dccae.html'， 
 > and then you have to put it into 'Mnist/data/' if you want to run this demo, train and test data will be write to 'data_set/Mnist' when you run.
 
-## 3. Requirements
+## 4. Requirements
 > pandas==0.24.2 
 > 
 > sklearn==0.0 
@@ -24,6 +28,4 @@
 > 
 > numpy==1.14.0
 
-## 4. Code Ocean Version
-> You can also find this demo on Code Ocean and easily run it by clicking the 'Reproducible Run' button.
-> https://codeocean.com/capsule/6805560/tree/v1
+

@@ -1,6 +1,6 @@
 # View_communication
 > This is code for paper  ‘ Human Collective Intelligence inspired Multi-view Representation Learning: Enabling View Communication by Simulating Human Communication Mechanism ’
-> We have published a reproducible demo and two dataset here.
+> We have published a reproducible demo and two datasets here.
 
 ## 1. How to run
 > Run 'bcpp/view_communication.py' on human breast cancer prognosis prediction dataset.

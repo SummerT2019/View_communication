@@ -2,18 +2,18 @@
 > This is code for paper  ‘ Human Collective Intelligence inspired Multi-view Representation Learning: Enabling View Communication by Simulating Human Communication Mechanism ’
 > We have published a reproducible demo and two dataset here.
 
-## 1. how to run
-> run 'bcpp/view_communication.py' on human breast cancer prognosis prediction dataset.
+## 1. How to run
+> Run 'bcpp/view_communication.py' on human breast cancer prognosis prediction dataset.
 > 
 > run 'Mnist/communication_with_fusion.py' on Noisy Mnist dataset.
 
-## 2. data Availablity
-> human breast cancer prognosis prediction data： original data in 'BCPP/data/', train and test data in 'data_set/bcpp/'
+## 2. Data Availablity
+> human Breast Cancer Prognosis Prediction data： original data in 'BCPP/data/', train and test data in 'data_set/bcpp/'
 > 
 > Noisy data: original data can be download from 'https://ttic.uchicago.edu/~wwang5/dccae.html'， 
 > and then you have to put it into 'Mnist/data/' if you want to run this demo, train and test data will be write to 'data_set/Mnist' when you run.
 
-## 3. requirements
+## 3. Requirements
 > pandas==0.24.2 
 > 
 > sklearn==0.0 

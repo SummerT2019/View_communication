@@ -5,7 +5,7 @@
 ## 1. How to run
 > Run 'bcpp/view_communication.py' on human breast cancer prognosis prediction dataset.
 > 
-> run 'Mnist/communication_with_fusion.py' on Noisy Mnist dataset.
+> Run 'Mnist/communication_with_fusion.py' on Noisy Mnist dataset.
 
 ## 2. Data Availablity
 > human Breast Cancer Prognosis Prediction data： original data in 'BCPP/data/', train and test data in 'data_set/bcpp/'

@@ -20,9 +20,9 @@
 ## 4. Requirements
 > pandas==0.24.2 
 > 
-> sklearn==0.0 
+> scikit-learn==0.0 
 > 
-> torch==1.0.0 
+> pytorch==1.0.0 
 > 
 > torchvision==0.4.0
 > 

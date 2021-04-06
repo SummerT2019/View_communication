@@ -14,7 +14,7 @@
 ## 3. Data Availablity
 > Human Breast Cancer Prognosis Prediction data： original data in 'BCPP/data/', train and test data in 'data_set/bcpp/'
 > 
-> Noisy data: original data can be download from 'https://ttic.uchicago.edu/~wwang5/dccae.html'， 
+> Noisy Mnist data: original data can be download from 'https://ttic.uchicago.edu/~wwang5/dccae.html'， 
 > and then you have to put it into 'Mnist/data/' if you want to run this demo, train and test data will be write to 'data_set/Mnist' when you run.
 
 ## 4. Requirements

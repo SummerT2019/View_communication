@@ -4,7 +4,7 @@
 
 ## 1. Code Ocean Version
 > You can also find this demo on Code Ocean and easily run it by clicking the 'Reproducible Run' button.
-> https://codeocean.com/capsule/6805560/tree/v1
+> https://codeocean.com/capsule/4589629/tree/v1
 
 ## 2. How to run
 > Run 'bcpp/view_communication.py' on human breast cancer prognosis prediction dataset.

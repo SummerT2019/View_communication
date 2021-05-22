@@ -1,5 +1,6 @@
 # View_communication
-> This is code for paper  ‘ Human Collective Intelligence inspired Multi-view Representation Learning: Enabling View Communication by Simulating Human Communication Mechanism ’
+> This is code for paper  ‘ Human Collective Intelligence Inspired Multi-view
+Deep Learning ’
 > We have published a reproducible demo and two datasets here.
 
 ## 1. Code Ocean Version

@@ -1,6 +1,5 @@
 # View_communication
-> This is code for paper  ‘ Human Collective Intelligence Inspired Multi-view
-Deep Learning ’
+> This is code for paper  ‘ Multi-view Learning Inspired by Human Collective Intelligenc ’
 > We have published a reproducible demo and two datasets here.
 
 ## 1. Code Ocean Version

@@ -1,5 +1,5 @@
 # View_communication
-> This is code for paper  ‘ Multi-view Learning Inspired by Human Collective Intelligence ’
+> This is code for paper  ‘ Multi-view Learning Inspired by Human Communication Model ’
 > We have published a reproducible demo and two datasets here.
 
 ## 1. Code Ocean Version

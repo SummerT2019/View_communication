@@ -19,15 +19,12 @@ class SharedAndSpecificLoss(nn.Module):
     # Should be orthogonal
     @staticmethod
     def orthogonal_loss(shared, specific):
-        shared = shared - shared.mean()
-        specific = specific - specific.mean()
+        shared = torch.sigmod(shared)
+        specific = torch.sigmod(specific)
         shared = F.normalize(shared, p=2, dim=1)
         specific = F.normalize(specific, p=2, dim=1)
-
-        # cost = wassertein_dis.was(shared, specific)
-        correlation_matrix = shared.t().matmul(specific)
-        cost = correlation_matrix.matmul(correlation_matrix).mean()
-
+        correlation_matrix = shared.mul(specific)
+        cost = correlation_matrix.mean()
         cost = F.relu(cost)
         return cost
 

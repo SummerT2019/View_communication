@@ -19,8 +19,8 @@ class SharedAndSpecificLoss(nn.Module):
     # Should be orthogonal
     @staticmethod
     def orthogonal_loss(shared, specific):
-        shared = torch.sigmod(shared)
-        specific = torch.sigmod(specific)
+        shared = torch.sigmoid(shared)
+        specific = torch.sigmoid(specific)
         shared = F.normalize(shared, p=2, dim=1)
         specific = F.normalize(specific, p=2, dim=1)
         correlation_matrix = shared.mul(specific)

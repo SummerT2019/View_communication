@@ -4,7 +4,7 @@
 
 ## 1. Code Ocean Version
 > You can also find this demo on Code Ocean and easily run it by clicking the 'Reproducible Run' button.
-> https://codeocean.com/capsule/4589629/tree/v2
+> https://codeocean.com/capsule/1153899/tree/v1
 
 ## 2. How to run
 > Run 'Mnist/communication_with_fusion.py' on Noisy Mnist dataset.
